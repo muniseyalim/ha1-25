@@ -137,7 +137,5 @@ class CalculatorTest {
 
         assertEquals(expected, calc.readScreen());
     }
-
-
 }
 
